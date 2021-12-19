@@ -1,0 +1,3 @@
+﻿cl : командная строка warning D9025: переопределение "/sdl" на "/GS-"
+  laba5.cpp
+  laba5.vcxproj -> D:\program\laba5\Debug\laba5.exe
